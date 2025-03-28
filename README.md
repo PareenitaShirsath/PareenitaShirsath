@@ -1,5 +1,4 @@
-# 💫 About Me:-
-## 3rd Year Artificial Inteligence & Data Science Engineering Student @University of Mumbai
+## 💫 About Me:- 3rd Year Artificial Inteligence & Data Science Engineering Student @University of Mumbai
 
 
 ## 🌐 Socials:-
