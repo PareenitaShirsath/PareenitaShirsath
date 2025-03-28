@@ -1,4 +1,15 @@
-## 💫 About Me:- 3rd Year Artificial Inteligence & Data Science Engineering Student @University of Mumbai
+## 💫 About Me:- 
+-  🧑‍🎓 3rd Year Artificial Inteligence & Data Science Engineering Student @University of Mumbai
+  
+- 🔭 I’m currently working on <a href="https://github.com/PareenitaShirsath/TraceGreen">TraceGreen</a>
+
+- 🌱 I’m Currently Learning **Data Structure Using Python**
+
+- 👨‍💻 All of my Projects are Available at <a href="https://github.com/PareenitaShirsath">GitHub</a>
+
+- 📫 How to reach me **<a href="paree.nita97@gmail.com">Click Here to Contact Me</a>**
+
+- 📄 Know About my Experiences <a href="https://github.com/PareenitaShirsath">From Here</a>
 
 
 ## 🌐 Socials:-
