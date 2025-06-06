@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my Projects are Available at <a href="https://github.com/PareenitaShirsath">GitHub</a>
 
-- 📫 How to reach me **<a href="paree.nita97@gmail.com">Click Here to Contact Me</a>**
+- 📫 How to reach me **<a href="pareenitaatulshirsath@gmail.com">Click Here to Contact Me</a>**
 
 - 📄 Know About my Experiences <a href="https://github.com/PareenitaShirsath">From Here</a>
 
